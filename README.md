@@ -208,7 +208,7 @@ PUTCHAR_PROTOTYPE
 
  
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![Uploading image.png…]()
+<img width="956" height="667" alt="image" src="https://github.com/user-attachments/assets/aef212fc-1530-4fa6-bc31-97280834eea2" />
 
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
