@@ -204,33 +204,38 @@ PUTCHAR_PROTOTYPE
 ```
 
 ## Output screen shots of proteus  :
- 
+ ![WhatsApp Image 2025-11-20 at 6 55 51 PM](https://github.com/user-attachments/assets/3e3f6f8f-5e59-4725-9f94-5812036ad7f2)
+
  
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
+ ![Uploading image.png…]()
+
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
+![WhatsApp Image 2025-11-20 at 11 28 14 AM](https://github.com/user-attachments/assets/75842e94-ecaf-4413-8b80-019a905e2ebd)
 
-TON = 
-TOFF=
-TOTAL TIME = 
-FREQUENCY = 1/(TOTAL TIME)
+TON = 0.34 ms
+TOFF= 0.34 ms
+TOTAL TIME = TON +TOFF = 0.68 ms
+FREQUENCY = 1/(TOTAL TIME) = 1/0.64 = 1470.6 Hz
 
-FOR PULSE AT 700
+FOR PULSE AT 750
+![WhatsApp Image 2025-11-20 at 11 28 04 AM](https://github.com/user-attachments/assets/55e961a4-dd0f-48a4-af8f-1e26ac8df56a)
 
-TON = 
-TOFF=
-TOTAL TIME = 
-FREQUENCY = 1/(TOTAL TIME)
+TON = 0.666 ms
+TOFF= 0.666 ms
+TOTAL TIME = 1.333 ms
+FREQUENCY = 1/(TOTAL TIME) = 750 Hz
 
 
-FOR PULSE AT 900
+FOR PULSE AT 250
+![WhatsApp Image 2025-11-20 at 11 28 24 AM](https://github.com/user-attachments/assets/95ca599a-3c84-4e2e-b736-25e4737b77d9)
 
-TON = 
-TOFF=
-TOTAL TIME = 
-FREQUENCY = 1/(TOTAL TIME)
+TON = 2 ms
+TOFF= 2 ms
+TOTAL TIME = 4 ms
+FREQUENCY = 1/(TOTAL TIME) = 250 Hz
 
 
 ## Result :
