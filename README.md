@@ -215,17 +215,24 @@ PUTCHAR_PROTOTYPE
 FOR PULSE AT 500
 ![WhatsApp Image 2025-11-20 at 7 07 34 PM](https://github.com/user-attachments/assets/ccb739b9-a162-4292-81af-9c3fc739db0e)
 
+
 TON = 0.34 ms
+
 TOFF= 0.34 ms
+
 TOTAL TIME = TON +TOFF = 0.68 ms
+
 FREQUENCY = 1/(TOTAL TIME) = 1/0.64 = 1470.6 Hz
 
 FOR PULSE AT 750
 ![WhatsApp Image 2025-11-20 at 7 09 00 PM](https://github.com/user-attachments/assets/53b154ab-cb1a-4bdc-8908-f603418071fd)
 
 TON = 0.666 ms
+
 TOFF= 0.666 ms
+
 TOTAL TIME = 1.333 ms
+
 FREQUENCY = 1/(TOTAL TIME) = 750 Hz
 
 
@@ -233,8 +240,11 @@ FOR PULSE AT 250
 ![WhatsApp Image 2025-11-20 at 7 09 00 PM (1)](https://github.com/user-attachments/assets/d3d6f659-249f-4f38-9a89-28b6169ca788)
 
 TON = 2 ms
+
 TOFF= 2 ms
+
 TOTAL TIME = 4 ms
+
 FREQUENCY = 1/(TOTAL TIME) = 250 Hz
 
 
