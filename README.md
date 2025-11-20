@@ -213,7 +213,7 @@ PUTCHAR_PROTOTYPE
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
-![WhatsApp Image 2025-11-20 at 11 28 14 AM](https://github.com/user-attachments/assets/75842e94-ecaf-4413-8b80-019a905e2ebd)
+![WhatsApp Image 2025-11-20 at 7 07 34 PM](https://github.com/user-attachments/assets/ccb739b9-a162-4292-81af-9c3fc739db0e)
 
 TON = 0.34 ms
 TOFF= 0.34 ms
@@ -221,7 +221,7 @@ TOTAL TIME = TON +TOFF = 0.68 ms
 FREQUENCY = 1/(TOTAL TIME) = 1/0.64 = 1470.6 Hz
 
 FOR PULSE AT 750
-![WhatsApp Image 2025-11-20 at 11 28 04 AM](https://github.com/user-attachments/assets/55e961a4-dd0f-48a4-af8f-1e26ac8df56a)
+![WhatsApp Image 2025-11-20 at 7 09 00 PM](https://github.com/user-attachments/assets/53b154ab-cb1a-4bdc-8908-f603418071fd)
 
 TON = 0.666 ms
 TOFF= 0.666 ms
@@ -230,7 +230,7 @@ FREQUENCY = 1/(TOTAL TIME) = 750 Hz
 
 
 FOR PULSE AT 250
-![WhatsApp Image 2025-11-20 at 11 28 24 AM](https://github.com/user-attachments/assets/95ca599a-3c84-4e2e-b736-25e4737b77d9)
+![WhatsApp Image 2025-11-20 at 7 09 00 PM (1)](https://github.com/user-attachments/assets/d3d6f659-249f-4f38-9a89-28b6169ca788)
 
 TON = 2 ms
 TOFF= 2 ms
